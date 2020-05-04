@@ -13,14 +13,14 @@ To run the application in your terminal:
 - INPUT: "User's Birthdate Entered"
 - INPUT: "User's Gender Entered"
 - OUTPUT: "Displays User's Akan Name According to Submitted Date and Gender"
-2.Displays an Error Message if Date - - - Input Left Blank
+2.Displays an Error Message if Date Input is Left Blank
 - INPUT: ""
 - OUTPUT: "Displays Error Message"
 3.Displays an Error Message if Gender Not Chosen
 - INPUT: ""
-- OUTPUT: "Display an Error Message"
+- OUTPUT: "Displays an Error Message"
 4.Clears Form and Reset the Message on Click
-- INPUT: "Click Reset Button"
+- INPUT: "Reset Button"
 - OUTPUT: "Clears and Resets the Form"
 ## Known Bugs
 Want to contribute? Great!
@@ -60,5 +60,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. **{List of contributors or company name}**
-  
+SOFTWARE.  
