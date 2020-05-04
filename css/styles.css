@@ -42,3 +42,33 @@ ul{
 .test{
     margin: 5px;
 }
+
+.button{
+    font-weight: 500;
+    margin: 0px 40px;
+    border-radius: 20px;
+    margin: 0px 5px;
+    border: none;
+    padding: 5px 8px;
+    background: transparent;
+}
+
+.button{
+    background: #ff5722;
+}
+
+.errormessages{
+    color: red;
+    font-weight: 200;
+    padding-top: 5px;
+}
+
+
+@keyframes mover{
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(-20px);
+    }
+}
