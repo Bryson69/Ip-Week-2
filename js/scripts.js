@@ -41,3 +41,16 @@ function allNames(){
         }    
     }
 }
+function refresh(){
+    document.getElementById('mydateerror').innerHTML = "";
+    document.getElementById('gendererror').innerHTML = "";
+    document.getElementById('display').innerHTML = "";
+    mydate.value = "";
+    mydate.style.backgroundColor = "white";
+    mydate.style.border = "none";
+    mydate.style.borderBottom = "2px solid #ff5722";
+    var ele = document.getElementsByName("gender");
+
+    for(var j=0;j<gender.length;j++)
+       gender[j].checked = false;
+}
