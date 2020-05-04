@@ -57,13 +57,6 @@ ul{
     background: #ff5722;
 }
 
-.errormessages{
-    color: red;
-    font-weight: 200;
-    padding-top: 5px;
-}
-
-
 @keyframes mover{
     0%{
         transform: translateX(0);
