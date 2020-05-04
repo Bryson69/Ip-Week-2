@@ -22,10 +22,10 @@ To fix a bug or enhance an existing module, follow these steps:
 - HTML CSS & JS
 - VSCode, Sublime Text, Brackets any Text Editor
 - TerminalCLI(Command Line Interface)
-### License
 
 Link to the site https://bryson69.github.io/Ip-Week-2/
 
+### License
 *MIT License
 
 Copyright (c) [2020] [Bryson Mundia]
