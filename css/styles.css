@@ -19,3 +19,26 @@ h3{
 p{
     font-style: italic;    
 }
+
+.main-right{
+    padding: 50px;
+    border: none;
+    background: chocolate ;
+    border-top-left-radius: 15% 50%;
+    border-bottom-left-radius: 15% 5;
+    border-top-right-radius: 15% 50%;
+}
+
+ul{
+    list-style: none;
+}
+
+.dob{border: none;
+    width: 300px;
+    border-bottom: 2px solid lightblue;
+    margin-right: 10px;
+}
+
+.test{
+    margin: 5px;
+}
