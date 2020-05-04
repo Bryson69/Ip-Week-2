@@ -1,5 +1,5 @@
 # AKAN NAME GENERATOR
-### AKAN NAME
+### AKAN NAMES
 #### By **Bryson Mundia**
 ## Description
 - An application that generates your Akan name.
